@@ -31,4 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSprinterr&" alt="CodeSprinterr" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codesprinterr&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=CodeSprinterr&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/CodeSprinterr/CodeSprinterr/blob/output/github-contribution-grid-snake.svg)
