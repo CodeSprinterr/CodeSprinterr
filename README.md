@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesprinterr&label=Profile%20views&color=0e75b6&style=flat" alt="codesprinterr" /> </p>
 
-- 🔭 I’m currently working in [EdTech Company](https://hr.henryharvin.com/employeLogin)
+- 🔭 I’m currently working in [EdTech Company](https://henryharvin.com)
 
 - 🌱 I’m currently learning **React & Cloud Devops**
 
