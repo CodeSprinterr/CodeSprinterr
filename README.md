@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeSprinterr](https://github.com/CodeSprinterr)
 
-- 💬 Ask me about **Backend,Framework & Database**
+- 💬 Ask me about **Frontend/Backend Framework & Database**
 
 - 📫 How to reach me **aakashvaidya007@gmail.com**
 
