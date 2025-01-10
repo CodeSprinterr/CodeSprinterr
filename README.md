@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in [EdTech Company](https://henryharvin.com)
 
-- 🌱 I’m currently learning **React & Cloud Devops**
+- 🌱 I’m currently learning **Cloud and DevSecOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeSprinterr](https://github.com/CodeSprinterr)
 
